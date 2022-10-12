@@ -2,10 +2,10 @@
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyestah&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true" alt="lyestah" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyestah&show_icons=true&locale=pt-br&layout=compact&langs_count=7&theme=dracula" alt="lyestah" /></div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyestah&show_icons=true&locale=pt-br&layout=compact&langs_count=7&theme=dracula" alt="lyestah" /></div><br><br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyestah" alt="lyestah" /></a> </p>
-
+<br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/lyestah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lyestah" height="30" width="40" /></a>
