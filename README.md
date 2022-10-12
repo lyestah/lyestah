@@ -25,7 +25,7 @@
 <br><br>
 <p>
 <div><img align="left" src="https://github-readme-stats.vercel.app/api?username=lyestah&show_icons=true&locale=en" alt="lyestah" /></div>
-<div><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyestah&show_icons=true&locale=en&layout=compact" alt="lyestah" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyestah&show_icons=true&locale=en&layout=compact" alt="lyestah" /></div>
 </p>
 
 
