@@ -1,5 +1,5 @@
-##Hi 👋, I'm Júnior Gonçalves
-<h3 align="center">Um desenvolverdor FullStack</h3>
+## Hi 👋, I'm Júnior Gonçalves, sou desenvolver FullStack e Amante de Tecnologia!
+
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyestah&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true" alt="lyestah" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyestah&show_icons=true&locale=pt-br&layout=compact&langs_count=7&theme=dracula" alt="lyestah" /></div>
