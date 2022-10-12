@@ -1,4 +1,4 @@
-## Olá 👋, Eu sou Júnior Gonçalves, sou desenvolver FullStack e Amante de Tecnologia!
+## Olá 👋, Eu sou Júnior Gonçalves, sou desenvolvedor FullStack e Amante de Tecnologia!
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyestah&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true" alt="lyestah" />
