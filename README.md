@@ -25,13 +25,13 @@
 
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api?username=lyestah&show_icons=true&locale=en" alt="lyestah" /></div>
-<div><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyestah&show_icons=true&locale=en&layout=compact" alt="lyestah" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyestah&show_icons=true&locale=en&layout=compact" alt="lyestah" /></div>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyestah&" alt="lyestah" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyestah&" alt="lyestah" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyestah" alt="lyestah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyestah" alt="lyestah" /></a> </p>-->
 
 <p align="center"> <a href="https://twitter.com/lyestah" target="blank"><img src="https://img.shields.io/twitter/follow/lyestah?logo=twitter&style=for-the-badge" alt="lyestah" /></a> </p>
 
